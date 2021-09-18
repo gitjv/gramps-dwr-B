@@ -1,9 +1,7 @@
 # gramps-dwr-B
 Dynamic Web Report B is an enhancement of the original Gramps Dynamic Web Report
 
-The document _Dynamic Web Report B.pdf_ describes the changes.
-
-If you read the associated document, you will see what it can do.  In short it has:
+The document _Dynamic Web Report B.pdf_ describes what it does.  In short it has:
 
 - **Tracking**:  One or more people in your tree can be tagged, and then the relationship of each person in the report is tracked back to these people, eg whether they are a great aunt, or cousin etc.  This shows in the person header.
 
