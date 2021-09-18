@@ -16,4 +16,4 @@ The document _Dynamic Web Report B.pdf_ describes what it does.  In short it has
 There are some other changes as well, described in the attached pdf.
 
 
-The zip file (to be added) can be downloaded and ...
+The zip file (to be added) can be downloaded, extracted and dropped into the plugins folder.
