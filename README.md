@@ -5,7 +5,7 @@ The document _Dynamic Web Report B.pdf_ describes what it does.  In short it has
 
 - **Tracking**:  One or more people in your tree can be tagged, and then the relationship of each person in the report is tracked back to these people, eg whether they are a great aunt, or cousin etc.  This shows in the person header.
 
-- **Why Me**: someone is in your tree for a reason.  the Why Me box that explains why.  It is filled from a note attached to that person.  It shows in the person header.
+- **Why Me**: Someone is in your tree for a reason.  the Why Me box explains why.  It is filled from a note attached to that person.  It shows in the person header.
 
 - **Story**:  Every person can have a Story note attached to them, which shows in the person header.
 
