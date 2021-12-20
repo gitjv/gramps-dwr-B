@@ -3,6 +3,8 @@ Dynamic Web Report B is an enhancement of the original Gramps Dynamic Web Report
 
 The document _Dynamic Web Report B.pdf_ describes what it does.  In short it has:
 
+- **Timeline Events**:  The event tab for a person is a timeline of theit own events plus vital events (births and deaths) of their siblings, parents, children and spouses.  Tickboxes let you filter out various events.
+
 - **Tracking**:  One or more people in your tree can be tagged, and then the relationship of each person in the report is tracked back to these people, eg whether they are a great aunt, or cousin etc.  This shows in the person header.
 
 - **Why Me**: Someone is in your tree for a reason.  the Why Me box explains why.  It is filled from a note attached to that person.  It shows in the person header.
@@ -16,4 +18,4 @@ The document _Dynamic Web Report B.pdf_ describes what it does.  In short it has
 There are some other changes as well, described in the attached pdf.
 
 
-The zip file (to be added) can be downloaded, extracted and dropped into the plugins folder.
+The zip file can be downloaded, then extracted and dropped into your plugins folder.
